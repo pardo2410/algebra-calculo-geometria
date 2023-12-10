@@ -1,5 +1,5 @@
-#Algebra, Calculo & Geometria 
-##Practica
+# Algebra, Calculo & Geometria 
+## Practica
 ### Juan David Pardo
 contenido:
 1. Multiconjuntos
